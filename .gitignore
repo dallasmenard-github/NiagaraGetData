@@ -1,5 +1,6 @@
 # Credentials — NEVER commit
 .env
+setup.bat
 
 # Python
 __pycache__/
